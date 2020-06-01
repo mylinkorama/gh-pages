@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Link-o-rama</title>
+    <link href="https://mylinkorama.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://mylinkorama.github.io/gh-pages" />
+    <updated>2020-06-01T20:37:30+02:00</updated>
+    <author>
+        <name>A3M</name>
+    </author>
+    <id>https://mylinkorama.github.io/gh-pages</id>
+
+    <entry>
+        <title>PureBasic</title>
+        <author>
+            <name>A3M</name>
+        </author>
+        <link href="https://mylinkorama.github.io/gh-pages/purebasic.html"/>
+        <id>https://mylinkorama.github.io/gh-pages/purebasic.html</id>
+            <category term="PureBasic"/>
+            <category term="Programming"/>
+            <category term="Development"/>
+
+        <updated>2020-06-01T20:24:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                    PureBasic OpenSource Projects &gt; https://github.com/fantaisie-software/purebasic &gt; https://www.purebasic.fr/english/viewtopic.php?f=14&amp;t=74151 SpiderBasic 💿 &gt; https://www.spiderbasic.com/index.php PureBasic &gt; https://www.purebasic.com/index.php News &gt; http://www.purearea.net/pb/english/index.htm Resources &gt; http://www.purearea.net/pb/english/index.htm Testo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>PureBasic OpenSource Projects</strong><br>  &gt; <a href="https://github.com/fantaisie-software/purebasic">https://github.com/fantaisie-software/purebasic</a><br>  &gt; <a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">https://www.purebasic.fr/english/viewtopic.php?f=14&amp;t=74151</a><br><br><strong>SpiderBasic  💿</strong><br>  &gt; <a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">https://www.spiderbasic.com/index.php</a><br><br><strong>PureBasic</strong><br>  &gt; <a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">https://www.purebasic.com/index.php</a></p>
+<p><strong>News</strong><br>  &gt; <a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">http://www.purearea.net/pb/english/index.htm</a><br><br><strong>Resources</strong><br>  &gt; <a href="#INTERNAL_LINK#/post/null" target="_blank" rel="noopener noreferrer">http://www.purearea.net/pb/english/index.htm</a></p>
+<p><a href="https://github.com/fantaisie-software/purebasic" title="Zien" target="_blank" rel="noopener noreferrer">Testo</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

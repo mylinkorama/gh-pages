@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Link-o-rama",
+    "description": "",
+    "home_page_url": "https://mylinkorama.github.io/gh-pages",
+    "feed_url": "https://mylinkorama.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "A3M"
+    },
+    "items": [
+        {
+            "id": "https://mylinkorama.github.io/gh-pages/purebasic.html",
+            "url": "https://mylinkorama.github.io/gh-pages/purebasic.html",
+            "title": "PureBasic",
+            "summary": "PureBasic OpenSource Projects &gt; https://github.com/fantaisie-software/purebasic &gt; https://www.purebasic.fr/english/viewtopic.php?f=14&amp;t=74151 SpiderBasic 💿 &gt; https://www.spiderbasic.com/index.php PureBasic &gt; https://www.purebasic.com/index.php News &gt; http://www.purearea.net/pb/english/index.htm Resources &gt; http://www.purearea.net/pb/english/index.htm Testo",
+            "content_html": "<p><strong>PureBasic OpenSource Projects</strong><br>  &gt; <a href=\"https://github.com/fantaisie-software/purebasic\">https://github.com/fantaisie-software/purebasic</a><br>  &gt; <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.purebasic.fr/english/viewtopic.php?f=14&amp;t=74151</a><br><br><strong>SpiderBasic  💿</strong><br>  &gt; <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.spiderbasic.com/index.php</a><br><br><strong>PureBasic</strong><br>  &gt; <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.purebasic.com/index.php</a></p>\n<p><strong>News</strong><br>  &gt; <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.purearea.net/pb/english/index.htm</a><br><br><strong>Resources</strong><br>  &gt; <a href=\"#INTERNAL_LINK#/post/null\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.purearea.net/pb/english/index.htm</a></p>\n<p><a href=\"https://github.com/fantaisie-software/purebasic\" title=\"Zien\" target=\"_blank\" rel=\"noopener noreferrer\">Testo</a></p>",
+            "author": {
+                "name": "A3M"
+            },
+            "tags": [
+                   "PureBasic",
+                   "Programming",
+                   "Development"
+            ],
+            "date_published": "2015-12-01T18:45:00+01:00",
+            "date_modified": "2020-06-01T20:24:32+02:00"
+        }
+    ]
+}
